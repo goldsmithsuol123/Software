@@ -21,8 +21,12 @@ public class PlayerStats: MonoBehaviour {
 
 	void Update()
 	{
+		PlayerPrefs.SetFloat ("Money",playerMoney);
+		PlayerPrefs.Save ();
 		if(playerHealth < 1)
 		{
+			PlayerPrefs.SetFloat ("Money",playerMoney);
+			PlayerPrefs.Save ();//check reset.cs
 			Application.LoadLevel(5);
 		}
 	}

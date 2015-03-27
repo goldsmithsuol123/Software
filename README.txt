@@ -1,7 +1,7 @@
 HOW TO RUN THE SOFTWARE
 
 Download the working version.zip from the link below
-
+REQUIRES GOOGLE DRIVE
 Download Link
 https://drive.google.com/open?id=0B9kqmn5mR81TWThRUmdHZ01GWFU&authuser=0
 
@@ -38,6 +38,7 @@ Android: Android SDK and Java Development Kit (JDK).
 Windows Store Apps / Windows Phone: 64 bit Windows 8 Pro and Visual Studio 2012+.
 Blackberry: 32 bit Java Runtime (JRE).
 
+
 FOR RUNNING UNITY GAMES
 
 Generally content developed with Unity can run pretty much everywhere. How well it runs is dependent on the complexity of your project. More detailed requirements:
@@ -56,6 +57,6 @@ Android: OS 2.3.1 or later; ARMv7 (Cortex) CPU or Atom CPU; OpenGL ES 2.0 or lat
 Blackberry: OS 10 or later.
 
 UNITY FILES
-
+REQUIRES GOOGLE DRIVE
 download link if you want to access the project in Unity
 https://drive.google.com/open?id=0B9kqmn5mR81TRWlPVi10ZWNIRWc&authuser=0

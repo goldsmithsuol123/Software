@@ -21,8 +21,22 @@ Android
 3.Run the gameApp.apk on the android device and it will prompt you to install the software
 
 
+SYSTEM REQUIREMENTS
 
+FOR DEVELOPMENT
 
+OS: Windows XP SP2+, 7 SP1+, 8; Mac OS X 10.8+.
+Windows Vista is not supported; and server versions of Windows & OS X are not tested.
+GPU: Graphics card with DX9 (shader model 2.0) capabilities. Anything made since 2004 should work.
+
+The rest mostly depends on the complexity of your projects.
+
+Additional platform development requirements:
+
+iOS: Mac computer and Xcode 4.3.
+Android: Android SDK and Java Development Kit (JDK).
+Windows Store Apps / Windows Phone: 64 bit Windows 8 Pro and Visual Studio 2012+.
+Blackberry: 32 bit Java Runtime (JRE).
 
 FOR RUNNING UNITY GAMES
 

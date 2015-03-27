@@ -3,7 +3,7 @@ HOW TO RUN THE SOFTWARE
 Download the working version.zip from the link below
 REQUIRES GOOGLE DRIVE
 Download Link
-https://drive.google.com/open?id=0B9kqmn5mR81TWThRUmdHZ01GWFU&authuser=0
+https://drive.google.com/open?id=0B9kqmn5mR81TLWdweW1lVEluWHc&authuser=0
 
 PLATFORMS
 
